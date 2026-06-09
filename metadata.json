@@ -1,0 +1,6 @@
+{
+  "name": "PMAC Portal",
+  "description": "منصة الإدارة المؤسسية المتكاملة للمركز الفلسطيني للأعمال المتعلقة بالألغام تعمل بدون إنترنت وبالمزامنة التلقائية والذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
